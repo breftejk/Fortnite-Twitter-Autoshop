@@ -4,7 +4,7 @@
     <img src="https://fortniteassistant.xyz/fassistant-removedbg.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Fortnite-Twitter-Daily-Shop</h3>
+  <h3 align="center">Fortnite-Twitter-Autoshop</h3>
 
   <p align="center">
     Want to create your own Fortnite Store for your Twitter profile? From now on, you don't need a computer running at night, or even your VPS! All you need to do is log in to the website and set it up.  The store will always appear at 00:00 UTC.
